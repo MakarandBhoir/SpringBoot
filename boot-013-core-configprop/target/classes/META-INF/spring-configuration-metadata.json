@@ -1,0 +1,35 @@
+{
+  "groups": [{
+    "name": "myconfig",
+    "type": "org.makarands.boot.MyAppConfig",
+    "sourceType": "org.makarands.boot.MyAppConfig"
+  }],
+  "properties": [
+    {
+      "name": "myconfig.admin-email",
+      "type": "java.lang.String",
+      "sourceType": "org.makarands.boot.MyAppConfig"
+    },
+    {
+      "name": "myconfig.admin-first-name",
+      "type": "java.lang.String",
+      "sourceType": "org.makarands.boot.MyAppConfig"
+    },
+    {
+      "name": "myconfig.admin-last-name",
+      "type": "java.lang.String",
+      "sourceType": "org.makarands.boot.MyAppConfig"
+    },
+    {
+      "name": "myconfig.app-description",
+      "type": "java.lang.String",
+      "sourceType": "org.makarands.boot.MyAppConfig"
+    },
+    {
+      "name": "myconfig.app-name",
+      "type": "java.lang.String",
+      "sourceType": "org.makarands.boot.MyAppConfig"
+    }
+  ],
+  "hints": []
+}
