@@ -1,0 +1,6 @@
+org\makarands\services\DataLoader.class
+org\makarands\H2Application.class
+org\makarands\domain\Post.class
+org\makarands\domain\Author.class
+org\makarands\repository\PostRepository.class
+org\makarands\repository\AuthorRepository.class
